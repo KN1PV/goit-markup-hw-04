@@ -296,6 +296,7 @@ main {
 
 .advantages-icons-li {
     display: flex;
+    align-items: center;
     justify-content: center;
     border: 1px solid #8E8F99;
     width: 264px;
@@ -458,10 +459,7 @@ main {
 }
 
 .our-portfolio-text-animation {
-    padding-top: 40px;
-    padding-bottom: 164px;
-    padding-left: 32px;
-    padding-right: 32px;
+    padding: 40px 32px;
     margin: 0;
     color: #F4F4FD;
     background-color: #4D5AE5;
